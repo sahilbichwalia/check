@@ -74,7 +74,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
     }
 
     // Get the backend URL from the environment variable
-    const backendUrl ='http://localhost:3000'; // Default to localhost if no env variable is set
+    const backendUrl ='https://vercel.com/sahils-projects-725bb1a1/check-api:3000'; // Default to localhost if no env variable is set
 
     // Sending the POST request using fetch
     fetch(`${backendUrl}/login`, {
