@@ -16,8 +16,6 @@
     "nodemon": "^3.1.9"
   },
   "keywords": [
-    "hostel",
-    "management",
     "backend",
     "nodejs",
     "express"
